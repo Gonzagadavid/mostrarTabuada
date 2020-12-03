@@ -2,7 +2,7 @@
 
 
 
-### Esse projeto foi a implementação de um exercício do curso de JavaScript que estou fazendo. Ao terminar o exercício enxerguei a oportunidade de praticar também CSS.
+### Esse projeto foi a implementação de um exercício do curso de JavaScript. Ao terminar o exercício enxerguei a oportunidade de praticar também CSS.
 
   
 
