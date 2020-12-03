@@ -1,0 +1,57 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgreen;
+    color: aliceblue;
+    font-size: 70px;
+    height: 80px;
+    width: 100%;
+    margin-top: 10px;
+    font-family: BlackboardSchool-Awesome Demo;
+}
+
+body{
+    background-color: darkgreen;
+    color: white;
+    margin: 0%;
+    border-style: solid;
+    border-width: 15px;
+    border-color: saddlebrown;
+    min-height: 700px;
+
+}
+
+#output{
+    text-align: center;
+    font-size: 18px;
+    columns: 10;
+    font-family: BlackboardSchool-Awesome Demo;
+}
+
+.tabuada{
+    background-color: darkgreen;
+    border: none;
+    outline: none;
+    font-family: BlackboardSchool-Awesome Demo;
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.apagador{
+    background-color: darkgreen;
+    border: none;
+    outline: none;
+    font-family: BlackboardSchool-Awesome Demo;
+    font-size: 30px;
+    color: white;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+@font-face{
+    font-family: BlackboardSchool-Awesome Demo;
+    src: url(BlackboardSchool-Awesome\ Demo.otf);
+}
