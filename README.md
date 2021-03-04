@@ -6,4 +6,4 @@
 
   
 
-#### O projeto funciona com o usuário escolhendo um numero de zero a cento e noventa e nove e o programa retorna a tabuada de zero a noventa e nove desse mesmo numero.(alterado)
+#### O projeto funciona com o usuário escolhendo um numero de zero a cento e noventa e nove e o programa retorna a tabuada de zero a noventa e nove desse mesmo numero.
